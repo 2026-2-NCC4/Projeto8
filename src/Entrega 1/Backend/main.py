@@ -1,6 +1,6 @@
 """API do chat CTI."""
- 
-from __future__ import annotations # trazendo os calculos dos arquivos futuros
+
+from __future__ import annotations
 
 import sys
 from pathlib import Path

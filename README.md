@@ -1,118 +1,236 @@
-```sh
-Utilize o site <https://www.toptal.com/developers/gitignore> para gerar seu arquivo gitignore e apague este campo.
-
-Vide tutoriais do PI.
-```
-
-# FECAP - Fundação de Comércio Álvares Penteado
+﻿# FECAP - Fundação de Comércio Álvares Penteado
 
 <p align="center">
-<a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
+<a href="https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# ESC
 
-## Nome do Grupo
+## Integrantes 
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+<p align="center">
+  <img src="imagens/integrantes/logo.png" width="400" alt="Logo ESC Dashboard CTI">
+</p>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+
+
+
+<center>
+<table width="600">
+  <tr>
+    <td align="center" valign="top" width="200">
+      <a href="https://www.linkedin.com/in/eric-de-lucas-silva/">
+        <img src="imagens/integrantes/eric.svg.png" width="150" height="150" alt="Imagem provisória de Eric De Lucas Silva"><br>
+        <strong>Eric De Lucas Silva</strong>
+      </a>
+    </td>
+    <td align="center" valign="top" width="200">
+      <a href="https://www.linkedin.com/in/stephanie-macedo-da-silva/">
+        <img src="imagens/integrantes/Stepha.jpeg" width="150" height="150" alt="Imagem provisória de Stephanie Macedo da Silva"><br>
+        <strong>Stephanie Macedo da Silva</strong>
+      </a>
+    </td>
+    <td align="center" valign="top" width="200">
+      <a href="https://www.linkedin.com/in/en-hsiang-chien-53b550381/">
+        <img src="imagens/integrantes/chien.jpeg" width="150" height="150" alt="Imagem provisória de En Hsiang Chien"><br>
+        <strong>En Hsiang Chien</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</center>
+
+## Professores Orientadores: <a href="https://www.linkedin.com/in/eduardo-savino/">Eduardo Savino Gomes</a>, <a href="https://www.linkedin.com/in/luisspires/">Luis Fernando dos Santos Pires</a>, <a href="https://www.linkedin.com/in/professorrodnil/">Rodnil da Silva Moreira Lisboa</a> e Mauricio Lopes Da Cunha.
+
+---
 
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+
+<img src="imagens/dast.png"> 
+<br>
+Imagem do dashboard
 </p>
 
+O projeto ESC consiste no desenvolvimento de um dashboard preditivo e simulador de cenários financeiros criado em Python para otimizar a gestão e análise de riscos da CTI. A solução centraliza dados dispersos e substitui rotinas manuais por um dashboard integrado, ágil e visual.
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+Na prática, a ferramenta automatiza o cálculo de indicadores essenciais como DRE, fluxo de caixa, liquidez e ponto de equilíbrio e permite simular diferentes cenários operacionais em tempo real. Além disso, oferece visões personalizadas por perfil de usuário (como CEO e CFO) e conta com um assistente de inteligência artificial para apoiar a diretoria na tomada de decisões estratégicas de forma rápida.
 
-## 🛠 Estrutura de pastas
+* 🌐 **Acesse o sistema online:** [Clique aqui para ir ao dashboard (Render)](https://esc-semestre4-pi.onrender.com/)
+* 🎥 **Demonstração em Vídeo:** [Assistir ao vídeo explicativo no Google Drive](https://drive.google.com/file/d/1kHEZbDkoGPPZ-bo2bGT8GERNwtJYDaoU/view?usp=sharing)
 
--Raiz<br>
-|<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
-|-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
-|readme.md<br>
+---
 
-A pasta raiz contem dois arquivos que devem ser alterados:
+## 🛠 Estrutura de Pastas
+<pre>
+.
+├── documentos
+│   ├── Banner_FECAP_CCOMP4_ESC.pptx
+│   ├── Documento - Projeto de Extensão - COM Empresa - 2026_2.docx
+│   ├── Entrega 1
+│   │   ├── Análise Inferencial de Dados
+│   │   ├── Contabilidade e Finanças
+│   │   ├── Engenharia de Software e Arquitetura de Sistemas
+│   │   └── Projeto Interdisciplinar Ciência de Dados
+│   ├── Entrega 2
+│   │   ├── Análise Inferencial de Dados
+│   │   ├── Contabilidade e Finanças
+│   │   ├── Engenharia de Software e Arquitetura de Sistemas
+│   │   └── Projeto Interdisciplinar Ciência de Dados
+│   ├── README.md
+│   └── Venha para a FECAP!.txt
+├── imagens
+│   ├── Captura de tela 2026-10-31 114755.png
+│   ├── Captura de tela 2026-10-31 114829.png
+│   ├── Captura de tela 2026-10-31 114905.png
+│   ├── Captura de tela 2026-10-31 114923.png
+│   ├── Captura de tela 2026-10-31 115013.png
+│   ├── Captura de tela 2026-10-31 115034.png
+│   ├── Captura de tela 2026-10-31 115052.png
+│   └── Captura de tela 2026-10-31 115115.png
+├── README copy.md
+├── README.md
+└── src
+    ├── Entrega 1
+    │   ├── Backend
+    │   ├── Frontend
+    │   └── Venha para a FECAP!.txt
+    └── Entrega 2
+        ├── Backend
+        ├── Frontend
+        └── Venha para a FECAP!.txt
+</pre>
 
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
 
-Há também 4 pastas que seguem da seguinte forma:
+<details>
+<summary><strong>Frontend</strong> (clique para ver a árvore)</summary>
+<pre>
+├── Frontend
+│   ├── analise.ipynb
+│   ├── app.py
+│   ├── chat_component.py
+│   ├── chat_widget.html
+│   ├── organizando.ipynb
+│   ├── Procfile
+│   ├── requirements_dashboard.txt
+│   ├── requirements.txt
+│   └── src
+│       ├── components
+│       ├── config
+│       ├── controllers
+│       ├── models
+│       └── views
+</pre>
+</details>
 
-<b>documentos</b>: Toda a documentação estará nesta pasta.
+<details>
+<summary><strong>Backend</strong> (clique para ver a árvore)</summary>
+<pre>
+├── Backend
+│   ├── audit
+│   ├── cache
+│   ├── Cti.csv
+│   ├── data_audit.py
+│   ├── data_loader
+│   ├── db
+│   ├── documentos
+│   ├── main.py
+│   ├── metrics
+│   ├── Procfile
+│   ├── rag_engine.py
+│   ├── render.yaml
+│   ├── requirements.txt
+│   ├── routers
+│   ├── services
+│   └── tests
+</pre>
+</details>
 
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
-
-<b>imagens</b>: Imagens do sistema
-
-<b>src</b>: Pasta que contém o código fonte.
-
-## 🛠 Instalação
-
-<b>Android:</b>
-
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>Windows:</b>
-
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
+---
 
 ## 💻 Configuração para Desenvolvimento
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
+Para abrir e executar este projeto localmente, certifique-se de ter as seguintes ferramentas instaladas:
 
-Para abrir este projeto você necessita das seguintes ferramentas:
+* [Python 3.10+](https://www.python.org/)
+* [Git](https://git-scm.com/)
+* [Visual Studio Code](https://code.visualstudio.com/)
 
--<a href="https://godotengine.org/download">GODOT</a>
+### Passo a Passo
 
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
+### 1. Clonar o repositório e criar o ambiente virtual
+
+```bash
+git clone https://github.com/Ericdelucas/ESC_Semestre4_PI.git
+cd ESC_Semestre4_PI
+python -m venv .venv
 ```
 
-## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
+Ative o ambiente virtual conforme seu sistema:
 
-## 🎓 Referências
+**Windows (PowerShell):**
 
-Aqui estão as referências usadas no projeto.
+```powershell
+.\.venv\Scripts\Activate.ps1
+```
 
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://chooser-beta.creativecommons.org/>
-4. <https://freesound.org/>
-5. <https://www.toptal.com/developers/gitignore>
-6. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+**Linux / macOS:**
+
+```bash
+source .venv/bin/activate
+```
+
+### 2. Instalar as dependências
+
+Na raiz do repositório, com o ambiente virtual ativo:
+
+```bash
+python -m pip install -r "src/Entrega 1/Frontend/requirements_dashboard.txt"
+python -m pip install -r "src/Entrega 1/Backend/requirements.txt"
+```
+
+### 3. Configurar a IA (opcional)
+
+Para habilitar as respostas geradas pelo Gemini, copie `src/Entrega 1/Backend/.env.example` para `src/Entrega 1/Backend/.env` e preencha sua chave:
+
+```dotenv
+GOOGLE_API_KEY=sua_chave_aqui
+```
+
+A chave é opcional para usar o dashboard e suas análises financeiras. Não versione o arquivo `.env` com credenciais.
+
+### 4. Terminal 1 — Backend FastAPI
+
+Na raiz do repositório, com o ambiente virtual ativo:
+
+```bash
+cd "src/Entrega 1"
+python -m uvicorn Backend.main:app --reload --port 8000
+```
+
+Mantenha este terminal aberto. A API estará em [http://localhost:8000](http://localhost:8000), com documentação em [http://localhost:8000/docs](http://localhost:8000/docs) e verificação de saúde em [http://localhost:8000/api/health](http://localhost:8000/api/health).
+
+### 5. Terminal 2 — Frontend Streamlit
+
+Abra outro terminal na raiz do repositório e ative o mesmo ambiente virtual usando o comando do seu sistema indicado no passo 1. Em seguida:
+
+```bash
+cd "src/Entrega 1/Frontend"
+python -m streamlit run app.py --server.port 8501
+```
+
+Acesse o dashboard em [http://localhost:8501](http://localhost:8501). Mantenha os dois terminais abertos: o chat da interface utiliza a API em `http://localhost:8000`.
+
+## Licença e Referências
+
+### Licença
+
+ESC © 2026 por Eric De Lucas Silva, Stephanie Macedo da Silva, En Hsiang Chien e FECAP. Este projeto está licenciado sob a [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+### Referências
+
+1. **CTI Global.** [Site institucional](https://ctiglobal.com/).
+2. **Repositório Institucional da UFERSA.** [Trabalho acadêmico utilizado como referência no projeto (PDF)](https://repositorio.ufersa.edu.br/bitstreams/6e642d4f-ce5d-4270-b88a-e4cf1caf7f6d/download).
+3. **Repositório Institucional da UFSC.** [O Papel dos Dashboards no FP&A Estratégico: Evidências de um Estudo de Casos Múltiplos (PDF)](https://repositorio.ufsc.br/bitstream/handle/123456789/274297/O%20Papel%20dos%20Dashboards%20no%20FP&A%20Estrat%C3%A9gico%20Evid%C3%AAncias%20de%20um%20Estudo%20de%20Casos%20M%C3%BAltiplos.pdf?sequence=1).
