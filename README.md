@@ -58,8 +58,13 @@ O projeto ESC consiste no desenvolvimento de um dashboard preditivo e simulador 
 
 Na prática, a ferramenta automatiza o cálculo de indicadores essenciais como DRE, fluxo de caixa, liquidez e ponto de equilíbrio e permite simular diferentes cenários operacionais em tempo real. Além disso, oferece visões personalizadas por perfil de usuário (como CEO e CFO) e conta com um assistente de inteligência artificial para apoiar a diretoria na tomada de decisões estratégicas de forma rápida.
 
-* 🌐 **Acesse o sistema online:** [Clique aqui para ir ao dashboard (Render)](https://esc-semestre4-pi.onrender.com/)
+* 🌐 **Acesse o sistema online:** [Clique aqui para ir ao dashboard (Render)](https://esc-semestre4-pi.onrender.com/) <br>
+Login: ceo@gmail.com <br>
+senha: 123
+
 * 🎥 **Demonstração em Vídeo:** [Assistir ao vídeo explicativo no Google Drive](https://drive.google.com/file/d/1kHEZbDkoGPPZ-bo2bGT8GERNwtJYDaoU/view?usp=sharing)
+
+
 
 ---
 
